@@ -1,7 +1,7 @@
 ---
 services: documentdb
 platforms: nodejs
-author: ryancrawcour
+author: Pragati Kunwer
 ---
 
 # Web application development with Node.js and Express using DocumentDB
