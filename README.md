@@ -4,6 +4,9 @@ platforms: nodejs
 author: Pragati Kunwer
 ---
 
+Use this link to test Application,
+http://conference.azurewebsites.net/
+
 # Web application development with Node.js and Express using DocumentDB
 This sample shows you how to use the Microsoft Azure DocumentDB service to store and access data from a Node.js Express application hosted on Azure Websites. 
 
